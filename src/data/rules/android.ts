@@ -131,7 +131,7 @@ Generate code, corrections, and refactorings that comply with the basic principl
     author:{
       name:"aman satija",
       url:"http://amansatija.com",
-      avatar:null
+      avatar: ""
     },
   },
 ]

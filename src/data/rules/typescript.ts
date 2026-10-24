@@ -3,7 +3,7 @@ export const typescriptRules = [
     title: "Typescript Development Guidelines & Shortcuts",
     tags: ["TypeScript", "Node.js"],
     libs: ["Lodash", "Zod"],
-    slug: ["typescript-development-guidelines-shortcuts"],
+    slug: "typescript-development-guidelines-shortcuts",
     content: `
     # Overview
 
